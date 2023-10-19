@@ -28,11 +28,11 @@ Whether you want to monitor the health of your web server, identify security iss
 
 1. Clone the repository 
 
-    git clone git@github.com:rodrigocolozio/cybersecurity-.git
+    git clone `git@github.com:rodrigocolozio/cybersecurity-.git`
 
 2. Change to the repository's directory 
 
-    cd your_direcotory
+    cd your_directory
 
 3. Make the script executable
     sudo chmod +x simple_log_analisis.py
